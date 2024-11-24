@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pro02k
+- 👋 Hi, I’m @Vijikumar10
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on current programming language
